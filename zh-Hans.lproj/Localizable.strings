@@ -30,7 +30,7 @@
 
 "xq_login_btn_cancel" = "Cancel";
 
-"xq_mi_login_btn_title" = "MiWiFi account login";
+"xq_mi_login_btn_title" = "MiWiFi Account login";
 
 "xq_admin_login_btn_title" = "Admin Login";
 
@@ -62,9 +62,9 @@
 
 "xq_add_download_task_window_title_number" = "%d download task";
 
-"xq_router_volume_title" = "Router Volume";
+"xq_router_volume_title" = "Router Files";
 
-"xq_router_remote_volume" = "Router Remote Volume";
+"xq_router_remote_volume" = "Router Remote Files";
 
 "xq_new_task_list_empty_text" = "No download tasks";
 
@@ -136,9 +136,9 @@
 
 "xq_download_bt_panel_title" = "OK to download the file?";
 
-"xq_install_safari_menu_item_title" = "安装safari插件";
+"xq_install_safari_menu_item_title" = "Safari plug-in installation";
 
-"xq_install_chrome_menu_item_title" = "安装chrome插件";
+"xq_install_chrome_menu_item_title" = "Chrome plug-in installation";
 
 "xq_xunlei_engine_error_message" = "迅雷引擎错误";
 
@@ -202,13 +202,13 @@
 
 "xq_setting_tool_item_common" = "常用";
 
-"xq_setting_tool_item_browser" = "浏览器";
+"xq_setting_tool_item_browser" = "Browser";
 
-"xq_setting_common_setting_title" = "常用设置:";
+"xq_setting_common_setting_title" = "Settings:";
 
-"xq_setting_show_notification_when_finished" = "显示下载完成通知";
+"xq_setting_show_notification_when_finished" = "Download notification";
 
-"xq_setting_run_after_launch" = "系统启动时运行";
+"xq_setting_run_after_launch" = "Run at startup";
 
 "xq_setting_chrome_plugin" = "Chrome Extension";
 
@@ -222,9 +222,9 @@
 
 "xq_ui_login_input_username" = "Enter username";
 
-"xq_ui_login_check_password" = "记住密码";
+"xq_ui_login_check_password" = "Remember me";
 
-"xq_ui_login_check_autologin" = "自动登录";
+"xq_ui_login_check_autologin" = "Auto login";
 
 "xq_ui_otp_login_input_otp_code" = "请输入6位动态口令";
 
@@ -234,15 +234,15 @@
 
 "xq_ui_dialog_cancel" = "Cancel";
 
-"xq_ui_dialog_confirm" = "确定";
+"xq_ui_dialog_confirm" = "Confirm";
 
-"xq_ui_delete_with_file" = "同时删除文件";
+"xq_ui_delete_with_file" = "Delete Files";
 
 "xq_ui_setting_language" = "Language: ";
 
-"xq_error_invalid_account" = "该账号无效";
+"xq_error_invalid_account" = "Account Invalid";
 
-"xq_error_login_verify_failed" = "用户名或密码错误";
+"xq_error_login_verify_failed" = "Wrong username or password";
 
 "xq_error_unkown_error" = "Unknown error";
 
@@ -250,9 +250,9 @@
 
 "xq_error_login_network_failed" = "无法连接服务器";
 
-"xq_bind_add_new_router" = "添加小米路由器";
+"xq_bind_add_new_router" = "Add new Millet router";
 
-"xq_bind_searching_router" = "正在连接路由器，请稍候";
+"xq_bind_searching_router" = "Connecting to..router";
 
 "xq_bind_find_an_unbound_router" = "发现一台可以绑定的路由器";
 
@@ -278,11 +278,11 @@
 
 "xq_bind_done" = "确定";
 
-"xq_bind_empty_password" = "密码不能为空";
+"xq_bind_empty_password" = "Password cannot be blank";
 
 "xq_bind_input_password_hit" = "请输入管理员密码";
 
-"xq_bind_input_password_error" = "密码输入错误";
+"xq_bind_input_password_error" = "Password error";
 
 "xq_url_reg_new_user" = "https://account.xiaomi.com/pass/register?_locale=en_US";
 
