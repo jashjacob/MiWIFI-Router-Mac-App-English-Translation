@@ -1,6 +1,8 @@
 # MiWIFI-Router-Mac-App-English-Translation
 MiWiFi Router Official App for Mac translated into English
 
+Download Link for XMRouter/MiWiFi Router App for Mac (Not the latest) - http://bigota.miwifi.com/xiaoqiang/client/xqmac_client.dmg
+
 
 1. Download the file
 2. Unzip the file
