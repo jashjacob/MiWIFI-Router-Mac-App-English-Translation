@@ -1,0 +1,289 @@
+/*
+ Localizable.strings
+ XMRouter
+ 
+ Created by 赵 国辉 on 13-10-10.
+ Copyright (c) 2013年 xiaomi. All rights reserved.
+ */
+
+"xq_status_bar_menu_item_check_update" = "Check for updates";
+
+"xq_status_bar_menu_item_help" = "Help";
+
+"xq_status_bar_menu_space_usage_info" = "Used: %.1f%%, total: %@";
+
+"xq_status_bar_menu_access_manager_platform" = "Router management platform";
+
+"xq_status_bar_menu_item_about" = "About";
+
+"xq_status_bar_menu_item_exit" = "Exit";
+
+"xq_status_bar_menu_item_logout" = "Sign out";
+
+"xq_mount_error_invalid_filepath" = "Invalid file path";
+
+"xq_user_guide_window_title" = "MiWiFi";
+
+"xq_status_bar_menu_setting" = "Settings";
+
+"xq_login_btn_title" = "Log in";
+
+"xq_login_btn_cancel" = "Cancel";
+
+"xq_mi_login_btn_title" = "MiWiFi Account login";
+
+"xq_admin_login_btn_title" = "Admin Login";
+
+"xq_auto_login_btn_title" = "Automatic Login";
+
+"xq_forget_password_btn_title" = "I forget password";
+
+"xq_rememver_password_btn_title" = "Remember password";
+
+"xq_password_field_placeholder_text" = "Password";
+
+"xq_user_guide_go_on_btn_title" = "Carry on";
+
+"xq_user_guide_text" = "屏幕上的绿色箭头表示小米路由菜单栏图标的位置。单击图标以快速打开你的路由上的文件、建立下载任务等";
+
+"xq_user_guide_open_finder" = "现在打开我的小米路由文件";
+
+"xq_user_guide_finish_btn_title" = "Installation is complete";
+
+"xq_add_new_link_download_menu_item" = "New Magnet Link download";
+
+"xq_alert_message_device_not_bind" = "The device is not binded";
+
+"xq_alert_message_no_device" = "This account is not bound to any device";
+
+"xq_add_new_bt_download_menu_item" = "New torrent download";
+
+"xq_add_download_task_window_title" = "Download task";
+
+"xq_add_download_task_window_title_number" = "%d download task";
+
+"xq_router_volume_title" = "Router Files";
+
+"xq_router_remote_volume" = "Router Remote Files";
+
+"xq_new_task_list_empty_text" = "No download tasks";
+
+"xq_new_task_list_add_new_task_text" = "Click at the top left corner of \"+\" to create new download task";
+
+"xq_router_is_switching" = "正在切换您管理的路由器";
+
+"xq_input_new_download_link" = "Please enter the Magnet download link";
+
+"xq_add_new_task_window_title" = "New Magnet Link download";
+
+"xq_download_now_btn_title" = "Download Now";
+
+"xq_download_status_pause" = "Paused";
+
+"xq_download_status_stop" = "Stopped";
+
+"xq_download_status_waiting" = "Waiting";
+
+"xq_flag_remote" = "（Remote）";
+
+"xq_download_status_pausing" = "Pausing...";
+
+"xq_download_status_restarting" = "Restarting...";
+
+"xq_download_status_deleting" = "Deleting...";
+
+"xq_download_status_invalid_link" = "Magnet Link invalid";
+
+"xq_choose_file_btn_title" = "Choose";
+
+"xq_choose_file_panel_title" = "Choose a seed file";
+
+"xq_default_user_name" = "MiWiFi";
+
+"xq_download_im_btn_title" = "Download Now";
+
+"xq_download_cancel_btn_title" = "Cancel";
+
+"xq_client_already_lastest_version" = "You have the latest version";
+
+"xq_client_has_new_version" = "The new version is detected";
+
+"xq_alert_ok_btn" = "Ok";
+
+"xq_is_waiting_for_connect" = "Waiting for connection...";
+
+"xq_link_download_failed" = "Operation failed, please try again";
+
+"xq_mount_status_mounting" = "Mounting...";
+
+"xq_about_copyright_string" = "Copyright © 2014 xiaomi. All rights reserved.";
+
+"xq_about_version_string" = "Version %@";
+
+"xq_about_app_name" = "MiWiFi";
+
+"xq_update_version_format" = "检查到有新版本,最新版本号为 %@";
+
+"xq_update_window_title" = "Check for updates";
+
+"xq_update_btn_title" = "Update";
+
+"xq_download_redownload" = "Re-download";
+
+"xq_download_cancel_download" = "Cancel";
+
+"xq_download_duplicated_info" = "当前任务已存在，是否重新下载";
+
+"xq_download_bt_panel_title" = "OK to download the file?";
+
+"xq_install_safari_menu_item_title" = "Safari plug-in installation";
+
+"xq_install_chrome_menu_item_title" = "Chrome plug-in installation";
+
+"xq_xunlei_engine_error_message" = "迅雷引擎错误";
+
+"xq_no_network_text" = "网络连接中断或设备不在线";
+
+"xq_network_error" = "网络故障";
+
+"xq_not_my_router" = "连接的不是我的小米路由器";
+
+"xq_download_xunlei_yunbo_title" = "云播资源下载";
+
+"xq_download_completed_text" = "Download complete";
+
+"xq_download_completed_info" = "%@等%lu个任务下载完成";
+
+"xq_terminate_chrome_text" = "安装Chrome小米路由器下载扩展，需关闭正在运行的Chrome浏览器，是否允许?";
+
+"xq_open_download_file" = "Open downloaded file";
+
+"xq_close_notification" = "Close notification";
+
+"xq_no_xiaoqiang_disk" = "该设备无内置存储设备";
+
+"xq_message_open_web_kuaipan" = "点击前往网页版路由盘，进行云端文件管理";
+
+"xq_alert_delete_download_tasks" = "是否删除%@";
+
+"xq_alert_tasks_count" = "等%ld个任务";
+
+"xq_alert_fetch_web_kuaipan_fail" = "您未开启同步或网络错误";
+
+"xq_message_device_not_support" = "Sorry, 暂不支持小米路由器mini";
+
+"xq_message_r1c_no_usb" = "Insert the USB storage device";
+
+"xq_message_r1c_no_usb_detail" = "才能开启下载，存储功能";
+
+"xq_message_r1c_wrong_usb" = "We don't support this file system";
+
+"xq_message_r1c_wrong_usb_detail" = "Currently we support only Fat32, extFat formatted USB devices";
+
+"xq_message_r1c_ro_usb" = "The device is currently write-protected";
+
+"xq_message_remove_usb_device_success" = "Removed external USB device successfully";
+
+"xq_message_remove_usb_device_fail" = "Removing external USB device failed";
+
+"xq_menu_title_remove_usb_device" = "Remove external USB device";
+
+"xq_message_install_usb_device" = "USB device is initializing";
+
+"xq_kuaipan_sync_status_syncing" = "Syncing...";
+
+"xq_kuaipan_sync_status_completed" = "Syncing completed";
+
+"xq_kuaipan_sync_status_start" = "备份路由盘到快盘";
+
+"xq_kuaipan_sync_status_stoped" = "暂停快盘备份";
+
+"xq_kuaipan_sync_status_paused" = "继续快盘备份";
+
+"xq_setting_tool_item_common" = "常用";
+
+"xq_setting_tool_item_browser" = "Browser";
+
+"xq_setting_common_setting_title" = "Settings:";
+
+"xq_setting_show_notification_when_finished" = "Download notification";
+
+"xq_setting_run_after_launch" = "Run at startup";
+
+"xq_setting_chrome_plugin" = "Chrome Extension";
+
+"xq_setting_safari_plugin" = "Safari Extension";
+
+"xq_setting_install_plugin" = "Install extension";
+
+"xq_setting_uninstall_plugin" = "Uninstall extension";
+
+"xq_ui_login_input_password" = "Enter password";
+
+"xq_ui_login_input_username" = "Enter username";
+
+"xq_ui_login_check_password" = "Remember me";
+
+"xq_ui_login_check_autologin" = "Auto login";
+
+"xq_ui_otp_login_input_otp_code" = "请输入6位动态口令";
+
+"xq_ui_otp_login_check_private" = "This is a private device";
+
+"xq_ui_otp_login_check_public" = "This is a public device";
+
+"xq_ui_dialog_cancel" = "Cancel";
+
+"xq_ui_dialog_confirm" = "Confirm";
+
+"xq_ui_delete_with_file" = "Delete Files";
+
+"xq_ui_setting_language" = "Language: ";
+
+"xq_error_invalid_account" = "Account Invalid";
+
+"xq_error_login_verify_failed" = "Wrong username or password";
+
+"xq_error_unkown_error" = "Unknown error";
+
+"xq_error_disk_full" = "Disk is full";
+
+"xq_error_login_network_failed" = "Cannot Connect to Router";
+
+"xq_bind_add_new_router" = "Add new Millet router";
+
+"xq_bind_searching_router" = "Connecting to..router";
+
+"xq_bind_find_an_unbound_router" = "发现一台可以绑定的路由器";
+
+"xq_bind_find_no_result" = "未发现可绑定的路由器";
+
+"xq_bind_bind_success" = "Congratulations, the binding is successful！";
+
+"xq_bind_bind_failed" = "Binding failed, please try again later！";
+
+"xq_bind_prepare_find_router" = "请确保你已经连接到小米路由器";
+
+"xq_bind_bind_now" = "立即绑定";
+
+"xq_bind_confirm" = "确定绑定";
+
+"xq_bind_setup_now" = "立即设置";
+
+"xq_bind_router_is_connected" = "我已经连接上了";
+
+"xq_bind_retry_connect" = "重试";
+
+"xq_bind_retry_bind" = "重试";
+
+"xq_bind_done" = "确定";
+
+"xq_bind_empty_password" = "Password cannot be blank";
+
+"xq_bind_input_password_hit" = "请输入管理员密码";
+
+"xq_bind_input_password_error" = "Password error";
+
+"xq_url_reg_new_user" = "https://account.xiaomi.com/pass/register?_locale=en_US";
+
+"xq_ui_login_open_register_page" = "Sign up";
