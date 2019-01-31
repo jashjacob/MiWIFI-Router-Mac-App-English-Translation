@@ -4,6 +4,15 @@ MiWiFi Router Official App for Mac translated into English
 Download Link for XMRouter/MiWiFi Router App for Mac (Not the latest) - http://bigota.miwifi.com/xiaoqiang/client/xqmac_client.dmg
 
 
+#New Instructions (Updated January 2019)
+1. Download the file
+2. Unzip the file
+3. Open Finder and go to /Applications/XMRouter.app/Contents/Resources/en.lproj
+4. Copy "InfoPlist.strings" and "Localizable.strings" files to /Applications/XMRouter.app/Contents/Resources/en.lproj by replacing.
+5. Restart XMRouter.app or 小米路由器.app
+
+
+#Old Instructions
 1. Download the file
 2. Unzip the file
 3. Open Finder and go to /Applications/XMRouter.app/Contents/Resources/zh-Hans.lproj
